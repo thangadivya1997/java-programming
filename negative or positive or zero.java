@@ -1,17 +1,17 @@
-class Main {
+class negativeorpositiveorzero {
   public static void main(String[] args) {
     int num = 75;
     if (num > 0)
     {
-      System.out.println(num+"is a positive num");
+      System.out.println( "Positive");
     }
     else if (num  <0)
     {
-      System.out.println(num+"is a negative num");
+      System.out.println("Negative");
     }
     else if (num  <= 0)
     {
-      System.out.println(num+"is a zero");
+      System.out.println("Zero");
     }
      else
     {
