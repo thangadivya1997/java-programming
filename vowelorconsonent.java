@@ -1,4 +1,4 @@
-class Main {
+class vowelorconsonent {
  public static void main(String[] args) {
  char ch = 'z';
  switch (ch) {
@@ -7,10 +7,10 @@ class Main {
  case 'i':
  case 'o':
  case 'u':
- System.out.println(ch + " is Vowel");
+ System.out.println(" Vowel");
  break;
  default:
- System.out.println(ch + " is Consonant");
+ System.out.println(" Consonant");
   }
  }
 }
