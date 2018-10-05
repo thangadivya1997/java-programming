@@ -1,9 +1,9 @@
-class Main {
+class alphabetorno {
  public static void main(String[] args) {
  char c = 'a';
  if(c>= 'a' && c <= 'z')
- System.out.println(c+  " is an alphabet");
+ System.out.println("alphabet");
  else
- System.out.println(c+ " is not an alphabet");
+ System.out.println("not alphabet");
   }
  }
